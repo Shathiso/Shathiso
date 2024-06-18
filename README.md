@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shathiso
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently building applications using JavaScript, Laravel, React.js, Vue.js, Tailwind and Node.js
+- 🌱 I’m currently building applications using JavaScript, Laravel, React.js, Vue.js, Tailwind, Node.js and React Native
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 How to reach me: shathisontibi@yahoo.com
 
