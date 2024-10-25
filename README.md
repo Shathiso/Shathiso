@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shathiso Ntibi</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [the cleaning fix](https://app.thecleaningfix.com)
+- 🔭 I’m currently working an AI powered business tool
 
 - 🌱 I’m currently learning **AI models, LLMs, prompt templating and integrating AI into Web and Mobile applications.**
 
